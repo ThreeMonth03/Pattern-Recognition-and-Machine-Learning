@@ -14,5 +14,5 @@ Implement decision tree and random forest by numpy.
 ## HW4
 Implement k-fold data partitioning and grid searching by numpy.
 
-##Final project
+## Final project    
 I train the Resnet50 and bagging theory to classify CAPTCHA.
